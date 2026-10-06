@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hey, I'm Manoj kumar M
+### 💡 1st-Year Student | Hackathon Builder | AIML ENGINEER
+[
 
-<!--
-**manojkumar18-aiml/manojkumar18-aiml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-Here are some ideas to get you started:
+](https://www.linkedin.com/in/manoj-kumar-3ba595429)
+[
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:kumarmanoj79795@gmail.com)
+
+## 👤 About Me
+- 🏫 **Studying:** AIML at St.Joseph College of engineering
+- 🎯 **Aiming for:** AIML ENGINEER
+- 🔭 **Exploring:** AI / ML
+
+
+## 💻 Tech Stack
+| Category | Tools |
+|---|---|
+| Languages | Python, C |
+| Tools | Git, GitHub, VS Code |
+| Interests | Machine learning|
+
+## 📂 Projects
+### 🗂️ [Intelligent Land Record Digitization and Validation System](https://github.com/manojkumar18-aiml/YOUR-REPO-NAME)
+*Turns paper land records into digital data and checks them for errors.*
+
+## 🛣️ Journey
+- ✅ **Done:** [what you have finished]
+- 🔄 **Now:** [what you are working on]
+- 🌟 **Next:** [your next goal]
+
+## 🏆 Hackathons
+- [Hackathon name] – [year] – [result]
+
+## 📈 GitHub Stats
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=manojkumar18-aiml&show_icons=true&theme=radical)
+
+
+
+
+![Streak](https://streak-stats.demolab.com/?user=manojkumar18-aiml&theme=radical)
