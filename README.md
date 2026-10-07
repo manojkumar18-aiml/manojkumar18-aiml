@@ -29,13 +29,12 @@
 *Turns paper land records into digital data and checks them for errors.*
 
 ## 🛣️ Journey
-- ✅ **Done:** [what you have finished]
-- 🔄 **Now:** [what you are working on]
-- 🌟 **Next:** [your next goal]
+- ✅ **Done:** Learned Python and C, got comfortable with Git and GitHub, built my first ML-based project
+- 🔄 **Now:** Building the Intelligent Land Record Digitization and Validation System for a hackathon with team Coding GHOST
+- 🌟 **Next:** Deepen my machine learning skills, win a hackathon, and land an AI/ML internship or job
 
 ## 🏆 Hackathons
-- [Hackathon name] – [year] – [result]
-
+- - Intelligent Land Record Digitization and Validation System – 2026 – Participant (Team Coding GHOST)
 ## 📈 GitHub Stats
 
 
